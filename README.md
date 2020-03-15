@@ -30,6 +30,7 @@ Enter this in your terminal:
   python3 img_to_ascii.py "write path here" 
   ```
 ### Demo
+To see the demo visit this (link)[https://youtu.be/2wGIoh4S5lw]
 
 
 
